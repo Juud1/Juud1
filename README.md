@@ -2,8 +2,7 @@
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://open.spotify.com/intl-es/album/4N1fROq2oeyLGAlQ1C1j18?si=T8d8QXpqSG-Bp1x82Rc0uA"><img src="![image](https://github.com/Juud1/Juud1/assets/135843193/4b49d758-8c2e-4d8b-9ad2-a033c4e30400)
-" width="540" height="64"></a> |
+|  <a href="https://open.spotify.com/intl-es/album/4N1fROq2oeyLGAlQ1C1j18?si=x3hhx5UhSB-5_9m7QQXJ4A"><img src="[https://status.nmoo.dev/now-playing](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/1200x1200bf-60.jpg)" width="540" height="64"></a> |
 
 
 <table>
