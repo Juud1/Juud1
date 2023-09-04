@@ -8,7 +8,7 @@ Some fun facts about me are: sometime I play the guitar, I have a pet llama name
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:micajudith637@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:micajudith637@gmail.com)
 
-| 🎵 Listening                                                                                                                    |
+| 🎵 I'm Listening to                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 
 <a href="https://open.spotify.com/intl-es/track/1GsSM1Fju5J1Fsu51jEsTg?si=742a1fc2d9a74360"><img src="https://i.postimg.cc/1z2qTxQV/Recurso-7-2x-8.png" width="218" height="64"></a><a href="https://open.spotify.com/intl-es/track/24lqVtYdnA1NhYd37XFOPb?si=f2b7e06571f74458"><img src="https://i.postimg.cc/TPpbCdZX/Recurso-6-2x-8.png" width="218" height="64"></a>
