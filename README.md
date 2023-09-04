@@ -1,6 +1,6 @@
 ### Hi There! 👋
 Hi everyone! 🌻My name is Judith and I’m from Argentina. 🖍️I’m a student of graphic design and I love to gardening. 
-Some fun facts about me are: sometime I play the guitar, I have a pet llama named Milk.
+Some fun facts about me are: sometime I play the guitar, I have a pet cat named Milk. Chocolate is my jam and I’m always up for learning something new.➰📚
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Juud1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/micaela-coca-8b1106257/)
