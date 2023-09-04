@@ -2,10 +2,9 @@
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-|  <a href="https://open.spotify.com/intl-es/album/4N1fROq2oeyLGAlQ1C1j18?si=x3hhx5UhSB-5_9m7QQXJ4A"><img src="https://pin.it/5RHIg95" width="540" height="64"></a> |
+|  <a href="https://open.spotify.com/intl-es/album/4N1fROq2oeyLGAlQ1C1j18?si=x3hhx5UhSB-5_9m7QQXJ4A"><img src="[https://open.spotify.com/intl-es/album/4N1fROq2oeyLGAlQ1C1j18?si=ckJYz4R7SAeLGYJHDWbgsw](https://postimg.cc/Fdft5tjp)" width="540" height="64"></a> |
 
 
-<table>
   <thead>
     <tr>
       <th>📈 Top Tracks</th>
